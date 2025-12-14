@@ -79,7 +79,12 @@ WSGI_APPLICATION = 'bursary_backend.wsgi.application'
 # ===========================
 DATABASES = {
     'default': dj_database_url.config(
-        default=f"sqlite:///{BASE_DIR / 'db.sqlite3'}"
+        default=os.environ.get(
+            "DATABASE_URL",
+            f"postgresql://postgres:uZLmgkVhjl2eD25s@db.ouwdutgwylpdprhjoxpq.supabase.co:5432/postgres"
+        ),
+        conn_max_age=600,
+        ssl_require=True
     )
 }
 
