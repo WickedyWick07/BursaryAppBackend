@@ -83,16 +83,28 @@ WSGI_APPLICATION = 'bursary_backend.wsgi.application'
 # ===========================
 # Database
 # ===========================
+import psycopg2
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env
+load_dotenv()
 DATABASES = {
-    'default': dj_database_url.config(
-        default=os.environ.get(
-            "DATABASE_URL",
-            f"postgresql://postgres:uZLmgkVhjl2eD25s@db.ouwdutgwylpdprhjoxpq.supabase.co:5432/postgres"
-        ),
-        conn_max_age=600,
-        ssl_require=True
-    )
+    "default": {
+        "ENGINE": "django.db.backends.postgresql",
+        "NAME": os.getenv("DB_NAME"),
+        "USER": os.getenv("DB_USER"),
+        "PASSWORD": os.getenv("DB_PASSWORD"),
+        "HOST": os.getenv("DB_HOST"),
+        "PORT": os.getenv("DB_PORT"),
+        "OPTIONS": {
+            "sslmode": "require",
+        },
+    }
 }
+
+MEDIA_URL = os.getenv("MEDIA_URL")
+
 
 # ===========================
 # Custom user

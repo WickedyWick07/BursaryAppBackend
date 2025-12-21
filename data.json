@@ -1,0 +1,4375 @@
+[
+{
+  "model": "users.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$SKZiUVxNV4TIwQbino5ZaX$l9fql6N/6u6/6o7tEvb7eQxumow1r/bXly4pQmWINdk=",
+    "last_login": "2025-09-21T08:27:25.470Z",
+    "is_superuser": true,
+    "email": "admin01@gmail.com",
+    "first_name": "admin",
+    "last_name": "01",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$vZsIPyNdpKHwSWwcuRujvX$A8g3iPsyVOARoLDZk7g1z2KrQ0Huara0zX8kmB75uK4=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "JohnDoe@gmail.com",
+    "first_name": "John",
+    "last_name": "Doe",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Ge6V6ZVvVVHEibHBMlZFM6$yJYnTf3jHxksj2TcBF5EvzF5txy8bDL+Y3g6HrzIe54=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "JohnathanDoe@gmail.com",
+    "first_name": "Johnathan",
+    "last_name": "Doe",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$enzLNRM1JtczEg12KuthRV$SGimTDRC7vhqYE47psl3fja91jh3yF39Djmu7vJ/zu8=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "TomDoe@gmail.com",
+    "first_name": "Tom",
+    "last_name": "Doe",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$RqhcEWdU8G7WsiN6XM94tV$PyuK+xkIjDaW+kYd17LH962iXEctpl9oT9UP61f5oC8=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "SueDoe@gmail.com",
+    "first_name": "Sue",
+    "last_name": "Doe",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 17,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$kJ3jTmGhz2kUmwFOODmAQt$u8zWUBQOpnqeMteJYTXhY1C5bhICaC0tuX2eoEE3BCU=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "TomNolan@gmail.com",
+    "first_name": "Tom",
+    "last_name": "Nolan",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$O0JuhKJVejZZxWmZs5u4rj$dXKyns1G3J5A4hwjmCyF7L139TxuyHt1vcLovXG2icI=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "SamDoe@gmail.com",
+    "first_name": "Sam",
+    "last_name": "Doe",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 19,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$uR8xShMd7wyyuVfFBZebR2$gdG/+z1Y8brTPG0lExqpAnH2ISkkSMBWQpKgNiI9aIQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "siyabaPhendula@gmail.com",
+    "first_name": "Sol",
+    "last_name": "Phenduka",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$WqVVZx61CtCJQBwUhhnyqq$Ei+cLW1meEz4etwMfhuEJ9g3QKh3qzxeQgLujpuoU6U=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "MannyNolan@gmail.com",
+    "first_name": "Manny",
+    "last_name": "Nolan",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 21,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$g7KhHrw6h3TPjjp70kZOhh$lDDErkoDDaQazpwOCVtDEGyXlDBW7qMQKB8badbuJK8=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "DaveyGoldeberg@gmail.com",
+    "first_name": "Davey",
+    "last_name": "Goldberg",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 22,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$IVPxnGCbtUBjnnC3KI1dyj$PZf40kGFq7Uv5xWgzmb6A5H6LRP+ZBAKiLPBGY9gV8w=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "UGarcia@gmail.com",
+    "first_name": "Ulysees",
+    "last_name": "Garcia",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "pk": 23,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$tf6oFa3keKgObI7dbdpmks$fSt8Y/RCplvqBOoi+aWs8mXFJV9CcMEEJySPDG0F4Ls=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "TZwane@gmail.com",
+    "first_name": "Themba",
+    "last_name": "Zwane",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 1,
+  "fields": {
+    "applicant": 13,
+    "industry": "Engineering",
+    "name": "N1�N6 Engineering Studies (TVET)",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 2,
+  "fields": {
+    "applicant": 16,
+    "industry": "Business, Finance & Accounting",
+    "name": "Bachelor of Business Administration (BBA)",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 3,
+  "fields": {
+    "applicant": 17,
+    "industry": "Information Technology (IT) & Computer Science",
+    "name": "Bachelor of Science in Computer Science",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 4,
+  "fields": {
+    "applicant": 18,
+    "industry": "Health & Medical Sciences",
+    "name": "Bachelor of Pharmacy (BPharm)",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 5,
+  "fields": {
+    "applicant": 20,
+    "industry": "Law & Legal Studies",
+    "name": "Bachelor of Laws (LLB)",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 6,
+  "fields": {
+    "applicant": 21,
+    "industry": "Health & Medical Sciences",
+    "name": "Bachelor of Pharmacy (BPharm)",
+    "id_document": "documents/id/business12.PNG",
+    "transcript": "documents/transcripts/business12.PNG",
+    "profile_photo": "documents/photos/Media_1.jpg",
+    "is_verified": true
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 7,
+  "fields": {
+    "applicant": 22,
+    "industry": "Information Technology (IT) & Computer Science",
+    "name": "Bachelor of Information Technology",
+    "id_document": "documents/id/Sipho_I.D_Copy.jpg",
+    "transcript": "documents/transcripts/Viru_Glo_Sanitisers.jpg",
+    "profile_photo": "documents/photos/5_2.jpg",
+    "is_verified": true
+  }
+},
+{
+  "model": "qualificationsAndCourses.qualifications",
+  "pk": 8,
+  "fields": {
+    "applicant": 23,
+    "industry": "Business, Finance & Accounting",
+    "name": "Bachelor of Business Administration (BBA)",
+    "id_document": "",
+    "transcript": "",
+    "profile_photo": "",
+    "is_verified": false
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 1,
+  "fields": {
+    "qualification": 1,
+    "grade": "50.00",
+    "name": "Technical Eng 501"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 2,
+  "fields": {
+    "qualification": 1,
+    "grade": "80.00",
+    "name": "Woodwork 200"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 3,
+  "fields": {
+    "qualification": 1,
+    "grade": "70.00",
+    "name": "Tools and Maintenance 300"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 4,
+  "fields": {
+    "qualification": 2,
+    "grade": "89.00",
+    "name": "BBA 101"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 5,
+  "fields": {
+    "qualification": 2,
+    "grade": "68.00",
+    "name": "MBA212"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 6,
+  "fields": {
+    "qualification": 2,
+    "grade": "67.00",
+    "name": "BA32"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 7,
+  "fields": {
+    "qualification": 3,
+    "grade": "65.00",
+    "name": "Data Structures & algorithms"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 8,
+  "fields": {
+    "qualification": 3,
+    "grade": "73.00",
+    "name": "Operating Systems"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 9,
+  "fields": {
+    "qualification": 3,
+    "grade": "58.00",
+    "name": "Database Systems"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 10,
+  "fields": {
+    "qualification": 3,
+    "grade": "70.00",
+    "name": "Software Engineering"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 11,
+  "fields": {
+    "qualification": 3,
+    "grade": "76.00",
+    "name": "Computer Networks"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 12,
+  "fields": {
+    "qualification": 4,
+    "grade": "87.00",
+    "name": "Mathematics"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 13,
+  "fields": {
+    "qualification": 4,
+    "grade": "60.00",
+    "name": "Physical Sciences"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 14,
+  "fields": {
+    "qualification": 4,
+    "grade": "55.00",
+    "name": "Biology"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 15,
+  "fields": {
+    "qualification": 4,
+    "grade": "70.00",
+    "name": "English"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 16,
+  "fields": {
+    "qualification": 4,
+    "grade": "80.00",
+    "name": "Geography"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 17,
+  "fields": {
+    "qualification": 5,
+    "grade": "87.00",
+    "name": "Constitutional Law"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 18,
+  "fields": {
+    "qualification": 5,
+    "grade": "75.00",
+    "name": "Criminal Law"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 19,
+  "fields": {
+    "qualification": 5,
+    "grade": "65.00",
+    "name": "Contract Law"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 20,
+  "fields": {
+    "qualification": 5,
+    "grade": "58.00",
+    "name": "Jurisprudence"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 21,
+  "fields": {
+    "qualification": 5,
+    "grade": "90.00",
+    "name": "Law of Evidence"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 22,
+  "fields": {
+    "qualification": 6,
+    "grade": "77.00",
+    "name": "Pharmacology"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 23,
+  "fields": {
+    "qualification": 6,
+    "grade": "65.00",
+    "name": "Pharmaceutics"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 24,
+  "fields": {
+    "qualification": 6,
+    "grade": "70.00",
+    "name": "Pharmaceutical Chemistry"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 25,
+  "fields": {
+    "qualification": 6,
+    "grade": "85.00",
+    "name": "Pharmacognosy"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 26,
+  "fields": {
+    "qualification": 6,
+    "grade": "64.00",
+    "name": "Pharmacy Practice"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 27,
+  "fields": {
+    "qualification": 7,
+    "grade": "74.00",
+    "name": "Information Systems"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 28,
+  "fields": {
+    "qualification": 7,
+    "grade": "68.00",
+    "name": "Databases"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 29,
+  "fields": {
+    "qualification": 7,
+    "grade": "67.00",
+    "name": "Programming"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 30,
+  "fields": {
+    "qualification": 7,
+    "grade": "76.00",
+    "name": "M-commerce"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 31,
+  "fields": {
+    "qualification": 7,
+    "grade": "81.00",
+    "name": "Networks"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 32,
+  "fields": {
+    "qualification": 8,
+    "grade": "76.00",
+    "name": "Accounting management"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 33,
+  "fields": {
+    "qualification": 8,
+    "grade": "77.00",
+    "name": "Business Administration"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 34,
+  "fields": {
+    "qualification": 8,
+    "grade": "60.00",
+    "name": "Economics"
+  }
+},
+{
+  "model": "qualificationsAndCourses.courses",
+  "pk": 35,
+  "fields": {
+    "qualification": 8,
+    "grade": "88.00",
+    "name": "Market Analysis"
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 284,
+  "fields": {
+    "user": 21,
+    "bursary": 127,
+    "matched_on": "2025-09-21T10:40:35.331Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 285,
+  "fields": {
+    "user": 21,
+    "bursary": 128,
+    "matched_on": "2025-09-21T10:40:38.503Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 286,
+  "fields": {
+    "user": 21,
+    "bursary": 129,
+    "matched_on": "2025-09-21T10:41:52.377Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 70.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 287,
+  "fields": {
+    "user": 21,
+    "bursary": 130,
+    "matched_on": "2025-09-21T10:41:53.312Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 288,
+  "fields": {
+    "user": 21,
+    "bursary": 131,
+    "matched_on": "2025-09-21T10:41:54.026Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 289,
+  "fields": {
+    "user": 21,
+    "bursary": 132,
+    "matched_on": "2025-09-21T10:41:54.595Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 290,
+  "fields": {
+    "user": 21,
+    "bursary": 133,
+    "matched_on": "2025-09-21T10:41:55.080Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 30.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 291,
+  "fields": {
+    "user": 21,
+    "bursary": 134,
+    "matched_on": "2025-09-22T11:28:16.990Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 292,
+  "fields": {
+    "user": 21,
+    "bursary": 135,
+    "matched_on": "2025-09-22T11:28:18.528Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 293,
+  "fields": {
+    "user": 21,
+    "bursary": 136,
+    "matched_on": "2025-09-22T11:28:57.803Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 294,
+  "fields": {
+    "user": 21,
+    "bursary": 137,
+    "matched_on": "2025-09-22T11:29:38.438Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 295,
+  "fields": {
+    "user": 21,
+    "bursary": 138,
+    "matched_on": "2025-09-22T11:29:39.327Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 296,
+  "fields": {
+    "user": 21,
+    "bursary": 139,
+    "matched_on": "2025-09-22T11:29:40.750Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 297,
+  "fields": {
+    "user": 21,
+    "bursary": 140,
+    "matched_on": "2025-09-22T11:29:59.701Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 70.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 298,
+  "fields": {
+    "user": 21,
+    "bursary": 141,
+    "matched_on": "2025-09-22T11:30:00.803Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 299,
+  "fields": {
+    "user": 21,
+    "bursary": 142,
+    "matched_on": "2025-09-24T14:26:25.767Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 300,
+  "fields": {
+    "user": 21,
+    "bursary": 143,
+    "matched_on": "2025-09-24T14:26:26.901Z",
+    "match_quality": "Fair Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 301,
+  "fields": {
+    "user": 21,
+    "bursary": 144,
+    "matched_on": "2025-09-24T14:26:28.109Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 302,
+  "fields": {
+    "user": 22,
+    "bursary": 145,
+    "matched_on": "2025-09-25T13:17:23.650Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 90.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 303,
+  "fields": {
+    "user": 22,
+    "bursary": 146,
+    "matched_on": "2025-09-25T13:17:24.490Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 90.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 304,
+  "fields": {
+    "user": 22,
+    "bursary": 147,
+    "matched_on": "2025-09-25T13:18:05.203Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 305,
+  "fields": {
+    "user": 22,
+    "bursary": 148,
+    "matched_on": "2025-09-25T13:18:05.622Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 306,
+  "fields": {
+    "user": 22,
+    "bursary": 149,
+    "matched_on": "2025-09-25T13:18:07.191Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 307,
+  "fields": {
+    "user": 22,
+    "bursary": 150,
+    "matched_on": "2025-09-25T13:18:07.771Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 308,
+  "fields": {
+    "user": 22,
+    "bursary": 151,
+    "matched_on": "2025-09-25T13:18:08.413Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 309,
+  "fields": {
+    "user": 22,
+    "bursary": 152,
+    "matched_on": "2025-09-25T13:18:08.965Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 310,
+  "fields": {
+    "user": 22,
+    "bursary": 153,
+    "matched_on": "2025-09-25T13:18:09.652Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 311,
+  "fields": {
+    "user": 22,
+    "bursary": 154,
+    "matched_on": "2025-09-25T13:18:10.955Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 60.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 312,
+  "fields": {
+    "user": 22,
+    "bursary": 155,
+    "matched_on": "2025-09-25T13:18:12.332Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 313,
+  "fields": {
+    "user": 22,
+    "bursary": 156,
+    "matched_on": "2025-09-25T13:18:13.339Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 314,
+  "fields": {
+    "user": 22,
+    "bursary": 157,
+    "matched_on": "2025-09-25T13:18:14.099Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 315,
+  "fields": {
+    "user": 22,
+    "bursary": 158,
+    "matched_on": "2025-09-25T13:18:14.561Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 316,
+  "fields": {
+    "user": 22,
+    "bursary": 159,
+    "matched_on": "2025-09-25T13:18:15.124Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 317,
+  "fields": {
+    "user": 22,
+    "bursary": 160,
+    "matched_on": "2025-09-25T13:18:15.532Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 318,
+  "fields": {
+    "user": 22,
+    "bursary": 161,
+    "matched_on": "2025-09-25T13:18:16.233Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 319,
+  "fields": {
+    "user": 22,
+    "bursary": 162,
+    "matched_on": "2025-09-25T13:18:17.121Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 320,
+  "fields": {
+    "user": 22,
+    "bursary": 163,
+    "matched_on": "2025-09-25T13:18:25.878Z",
+    "match_quality": "Very Good Match",
+    "relevance_score": 70.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 321,
+  "fields": {
+    "user": 22,
+    "bursary": 164,
+    "matched_on": "2025-09-25T13:18:43.516Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 322,
+  "fields": {
+    "user": 22,
+    "bursary": 165,
+    "matched_on": "2025-09-25T13:18:45.020Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 323,
+  "fields": {
+    "user": 22,
+    "bursary": 166,
+    "matched_on": "2025-09-25T13:18:45.507Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 324,
+  "fields": {
+    "user": 22,
+    "bursary": 167,
+    "matched_on": "2025-09-25T13:18:46.641Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 325,
+  "fields": {
+    "user": 22,
+    "bursary": 168,
+    "matched_on": "2025-09-25T13:18:47.610Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 326,
+  "fields": {
+    "user": 22,
+    "bursary": 169,
+    "matched_on": "2025-09-25T13:18:48.623Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 327,
+  "fields": {
+    "user": 22,
+    "bursary": 170,
+    "matched_on": "2025-09-25T13:19:19.857Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 328,
+  "fields": {
+    "user": 22,
+    "bursary": 171,
+    "matched_on": "2025-09-25T13:19:20.264Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 329,
+  "fields": {
+    "user": 22,
+    "bursary": 172,
+    "matched_on": "2025-09-25T13:20:00.758Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 330,
+  "fields": {
+    "user": 22,
+    "bursary": 173,
+    "matched_on": "2025-09-25T13:20:02.736Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 331,
+  "fields": {
+    "user": 22,
+    "bursary": 174,
+    "matched_on": "2025-09-25T13:20:03.671Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 332,
+  "fields": {
+    "user": 22,
+    "bursary": 175,
+    "matched_on": "2025-09-25T13:20:04.527Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 333,
+  "fields": {
+    "user": 22,
+    "bursary": 176,
+    "matched_on": "2025-09-25T13:20:05.379Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 334,
+  "fields": {
+    "user": 22,
+    "bursary": 177,
+    "matched_on": "2025-09-25T13:21:04.088Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 335,
+  "fields": {
+    "user": 22,
+    "bursary": 178,
+    "matched_on": "2025-09-25T13:28:37.346Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 336,
+  "fields": {
+    "user": 22,
+    "bursary": 179,
+    "matched_on": "2025-09-25T13:28:37.738Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 90.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 337,
+  "fields": {
+    "user": 22,
+    "bursary": 180,
+    "matched_on": "2025-09-25T13:28:38.320Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 80.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 338,
+  "fields": {
+    "user": 22,
+    "bursary": 181,
+    "matched_on": "2025-09-25T13:28:40.432Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 339,
+  "fields": {
+    "user": 23,
+    "bursary": 182,
+    "matched_on": "2025-09-26T13:19:51.456Z",
+    "match_quality": "Excellent Match",
+    "relevance_score": 100.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 340,
+  "fields": {
+    "user": 21,
+    "bursary": 183,
+    "matched_on": "2025-10-16T13:33:14.498Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 341,
+  "fields": {
+    "user": 21,
+    "bursary": 184,
+    "matched_on": "2025-10-16T13:33:16.287Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 342,
+  "fields": {
+    "user": 21,
+    "bursary": 185,
+    "matched_on": "2025-10-16T13:33:17.250Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 343,
+  "fields": {
+    "user": 21,
+    "bursary": 186,
+    "matched_on": "2025-10-16T13:33:18.241Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 344,
+  "fields": {
+    "user": 21,
+    "bursary": 187,
+    "matched_on": "2025-10-16T13:33:19.367Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 345,
+  "fields": {
+    "user": 21,
+    "bursary": 188,
+    "matched_on": "2025-10-16T13:33:21.534Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 346,
+  "fields": {
+    "user": 21,
+    "bursary": 189,
+    "matched_on": "2025-10-16T13:33:23.853Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 347,
+  "fields": {
+    "user": 21,
+    "bursary": 190,
+    "matched_on": "2025-10-16T13:33:25.375Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 348,
+  "fields": {
+    "user": 21,
+    "bursary": 191,
+    "matched_on": "2025-10-16T13:33:26.657Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 349,
+  "fields": {
+    "user": 21,
+    "bursary": 192,
+    "matched_on": "2025-10-16T13:33:27.461Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 350,
+  "fields": {
+    "user": 21,
+    "bursary": 193,
+    "matched_on": "2025-10-16T13:33:28.005Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 351,
+  "fields": {
+    "user": 21,
+    "bursary": 194,
+    "matched_on": "2025-10-16T13:33:28.653Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 352,
+  "fields": {
+    "user": 21,
+    "bursary": 195,
+    "matched_on": "2025-10-16T13:33:29.128Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 353,
+  "fields": {
+    "user": 21,
+    "bursary": 196,
+    "matched_on": "2025-10-16T13:33:29.828Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 354,
+  "fields": {
+    "user": 21,
+    "bursary": 197,
+    "matched_on": "2025-10-16T13:33:30.741Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 355,
+  "fields": {
+    "user": 21,
+    "bursary": 198,
+    "matched_on": "2025-10-16T13:33:31.424Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 356,
+  "fields": {
+    "user": 21,
+    "bursary": 199,
+    "matched_on": "2025-10-16T13:33:32.640Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 357,
+  "fields": {
+    "user": 21,
+    "bursary": 200,
+    "matched_on": "2025-10-16T13:33:35.288Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 358,
+  "fields": {
+    "user": 21,
+    "bursary": 201,
+    "matched_on": "2025-10-16T13:33:37.010Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 359,
+  "fields": {
+    "user": 21,
+    "bursary": 202,
+    "matched_on": "2025-10-16T13:33:37.736Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 360,
+  "fields": {
+    "user": 21,
+    "bursary": 203,
+    "matched_on": "2025-10-16T13:33:38.524Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 361,
+  "fields": {
+    "user": 21,
+    "bursary": 204,
+    "matched_on": "2025-10-16T13:33:39.101Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 362,
+  "fields": {
+    "user": 21,
+    "bursary": 205,
+    "matched_on": "2025-10-16T13:33:39.805Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 363,
+  "fields": {
+    "user": 21,
+    "bursary": 206,
+    "matched_on": "2025-10-16T13:33:40.980Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 364,
+  "fields": {
+    "user": 21,
+    "bursary": 207,
+    "matched_on": "2025-10-16T13:33:41.649Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 365,
+  "fields": {
+    "user": 21,
+    "bursary": 208,
+    "matched_on": "2025-10-16T13:33:42.472Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 366,
+  "fields": {
+    "user": 21,
+    "bursary": 209,
+    "matched_on": "2025-10-16T13:33:43.300Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 367,
+  "fields": {
+    "user": 21,
+    "bursary": 210,
+    "matched_on": "2025-10-16T13:33:45.500Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 368,
+  "fields": {
+    "user": 21,
+    "bursary": 211,
+    "matched_on": "2025-10-16T13:33:47.606Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 369,
+  "fields": {
+    "user": 21,
+    "bursary": 212,
+    "matched_on": "2025-10-16T13:33:48.717Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 370,
+  "fields": {
+    "user": 21,
+    "bursary": 213,
+    "matched_on": "2025-10-16T13:33:49.888Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 371,
+  "fields": {
+    "user": 21,
+    "bursary": 214,
+    "matched_on": "2025-10-16T13:33:51.272Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 372,
+  "fields": {
+    "user": 21,
+    "bursary": 215,
+    "matched_on": "2025-10-16T13:33:52.344Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 373,
+  "fields": {
+    "user": 21,
+    "bursary": 216,
+    "matched_on": "2025-10-16T13:33:53.576Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 374,
+  "fields": {
+    "user": 21,
+    "bursary": 217,
+    "matched_on": "2025-10-16T13:33:55.061Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 375,
+  "fields": {
+    "user": 21,
+    "bursary": 218,
+    "matched_on": "2025-10-16T13:33:59.277Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 376,
+  "fields": {
+    "user": 21,
+    "bursary": 219,
+    "matched_on": "2025-10-16T13:34:02.393Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 377,
+  "fields": {
+    "user": 21,
+    "bursary": 220,
+    "matched_on": "2025-10-16T13:47:29.531Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 378,
+  "fields": {
+    "user": 21,
+    "bursary": 221,
+    "matched_on": "2025-10-16T13:47:32.332Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 379,
+  "fields": {
+    "user": 21,
+    "bursary": 222,
+    "matched_on": "2025-10-16T13:47:34.168Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 380,
+  "fields": {
+    "user": 21,
+    "bursary": 223,
+    "matched_on": "2025-10-16T13:47:36.052Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 381,
+  "fields": {
+    "user": 21,
+    "bursary": 224,
+    "matched_on": "2025-10-16T13:47:37.981Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 382,
+  "fields": {
+    "user": 21,
+    "bursary": 225,
+    "matched_on": "2025-10-16T13:47:39.864Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 383,
+  "fields": {
+    "user": 21,
+    "bursary": 226,
+    "matched_on": "2025-10-16T13:47:41.488Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 384,
+  "fields": {
+    "user": 21,
+    "bursary": 227,
+    "matched_on": "2025-10-16T13:47:44.112Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 385,
+  "fields": {
+    "user": 21,
+    "bursary": 228,
+    "matched_on": "2025-10-16T13:47:46.413Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 386,
+  "fields": {
+    "user": 21,
+    "bursary": 229,
+    "matched_on": "2025-10-16T13:47:48.812Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 387,
+  "fields": {
+    "user": 21,
+    "bursary": 230,
+    "matched_on": "2025-10-16T13:47:50.206Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 388,
+  "fields": {
+    "user": 21,
+    "bursary": 231,
+    "matched_on": "2025-10-16T13:47:51.277Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 389,
+  "fields": {
+    "user": 21,
+    "bursary": 232,
+    "matched_on": "2025-10-16T13:47:52.386Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 390,
+  "fields": {
+    "user": 21,
+    "bursary": 233,
+    "matched_on": "2025-10-16T13:47:54.532Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 391,
+  "fields": {
+    "user": 21,
+    "bursary": 234,
+    "matched_on": "2025-10-16T13:47:56.166Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 392,
+  "fields": {
+    "user": 21,
+    "bursary": 235,
+    "matched_on": "2025-10-16T13:49:51.861Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 393,
+  "fields": {
+    "user": 21,
+    "bursary": 236,
+    "matched_on": "2025-10-16T13:49:52.488Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 394,
+  "fields": {
+    "user": 21,
+    "bursary": 237,
+    "matched_on": "2025-10-16T13:49:53.618Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 395,
+  "fields": {
+    "user": 21,
+    "bursary": 238,
+    "matched_on": "2025-10-16T13:49:54.674Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 396,
+  "fields": {
+    "user": 21,
+    "bursary": 239,
+    "matched_on": "2025-10-16T13:49:55.442Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 397,
+  "fields": {
+    "user": 21,
+    "bursary": 240,
+    "matched_on": "2025-10-16T13:49:56.292Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 398,
+  "fields": {
+    "user": 21,
+    "bursary": 241,
+    "matched_on": "2025-10-16T13:49:56.967Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 399,
+  "fields": {
+    "user": 21,
+    "bursary": 242,
+    "matched_on": "2025-10-16T13:49:58.064Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 400,
+  "fields": {
+    "user": 21,
+    "bursary": 243,
+    "matched_on": "2025-10-16T13:51:50.124Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 401,
+  "fields": {
+    "user": 21,
+    "bursary": 244,
+    "matched_on": "2025-10-16T13:51:51.503Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 402,
+  "fields": {
+    "user": 21,
+    "bursary": 245,
+    "matched_on": "2025-10-16T13:51:52.114Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 403,
+  "fields": {
+    "user": 21,
+    "bursary": 246,
+    "matched_on": "2025-10-16T13:51:52.793Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 404,
+  "fields": {
+    "user": 21,
+    "bursary": 247,
+    "matched_on": "2025-10-16T13:51:53.349Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 405,
+  "fields": {
+    "user": 21,
+    "bursary": 248,
+    "matched_on": "2025-10-16T13:51:54.649Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 406,
+  "fields": {
+    "user": 21,
+    "bursary": 249,
+    "matched_on": "2025-10-16T13:51:56.967Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 407,
+  "fields": {
+    "user": 21,
+    "bursary": 250,
+    "matched_on": "2025-10-16T13:51:59.133Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 408,
+  "fields": {
+    "user": 21,
+    "bursary": 251,
+    "matched_on": "2025-10-16T13:52:00.782Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 409,
+  "fields": {
+    "user": 21,
+    "bursary": 252,
+    "matched_on": "2025-10-16T13:52:02.912Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 410,
+  "fields": {
+    "user": 21,
+    "bursary": 253,
+    "matched_on": "2025-10-16T13:52:04.294Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 411,
+  "fields": {
+    "user": 21,
+    "bursary": 254,
+    "matched_on": "2025-10-16T13:52:06.499Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 412,
+  "fields": {
+    "user": 21,
+    "bursary": 255,
+    "matched_on": "2025-10-16T13:52:08.150Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 413,
+  "fields": {
+    "user": 21,
+    "bursary": 256,
+    "matched_on": "2025-10-16T13:52:10.832Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 414,
+  "fields": {
+    "user": 21,
+    "bursary": 257,
+    "matched_on": "2025-10-16T13:52:14.062Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 415,
+  "fields": {
+    "user": 21,
+    "bursary": 258,
+    "matched_on": "2025-10-16T13:52:15.834Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 416,
+  "fields": {
+    "user": 21,
+    "bursary": 259,
+    "matched_on": "2025-10-16T13:52:18.087Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 417,
+  "fields": {
+    "user": 21,
+    "bursary": 260,
+    "matched_on": "2025-10-16T13:52:19.374Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 418,
+  "fields": {
+    "user": 21,
+    "bursary": 261,
+    "matched_on": "2025-10-16T13:52:21.054Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 419,
+  "fields": {
+    "user": 21,
+    "bursary": 262,
+    "matched_on": "2025-10-16T13:52:22.482Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 420,
+  "fields": {
+    "user": 21,
+    "bursary": 263,
+    "matched_on": "2025-10-16T13:52:23.469Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 421,
+  "fields": {
+    "user": 21,
+    "bursary": 264,
+    "matched_on": "2025-10-16T13:53:10.096Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 422,
+  "fields": {
+    "user": 21,
+    "bursary": 265,
+    "matched_on": "2025-10-16T13:53:10.841Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 423,
+  "fields": {
+    "user": 21,
+    "bursary": 266,
+    "matched_on": "2025-10-16T13:53:11.395Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 424,
+  "fields": {
+    "user": 21,
+    "bursary": 267,
+    "matched_on": "2025-10-16T13:53:12.382Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 425,
+  "fields": {
+    "user": 21,
+    "bursary": 268,
+    "matched_on": "2025-10-16T13:53:13.726Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 426,
+  "fields": {
+    "user": 21,
+    "bursary": 269,
+    "matched_on": "2025-10-16T13:53:14.575Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 427,
+  "fields": {
+    "user": 21,
+    "bursary": 270,
+    "matched_on": "2025-10-16T13:53:15.383Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 428,
+  "fields": {
+    "user": 21,
+    "bursary": 271,
+    "matched_on": "2025-10-16T13:53:16.005Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 429,
+  "fields": {
+    "user": 21,
+    "bursary": 272,
+    "matched_on": "2025-10-16T13:53:16.627Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 430,
+  "fields": {
+    "user": 21,
+    "bursary": 273,
+    "matched_on": "2025-10-16T13:53:17.456Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 431,
+  "fields": {
+    "user": 21,
+    "bursary": 274,
+    "matched_on": "2025-10-16T13:53:18.249Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 432,
+  "fields": {
+    "user": 21,
+    "bursary": 275,
+    "matched_on": "2025-10-16T13:53:18.976Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 433,
+  "fields": {
+    "user": 21,
+    "bursary": 276,
+    "matched_on": "2025-10-16T13:53:20.706Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 434,
+  "fields": {
+    "user": 21,
+    "bursary": 277,
+    "matched_on": "2025-10-16T13:53:22.258Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 435,
+  "fields": {
+    "user": 21,
+    "bursary": 278,
+    "matched_on": "2025-10-16T13:53:22.944Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 436,
+  "fields": {
+    "user": 21,
+    "bursary": 279,
+    "matched_on": "2025-10-16T13:53:23.736Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 437,
+  "fields": {
+    "user": 21,
+    "bursary": 280,
+    "matched_on": "2025-10-16T13:53:24.555Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 438,
+  "fields": {
+    "user": 21,
+    "bursary": 281,
+    "matched_on": "2025-10-16T13:53:25.199Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 439,
+  "fields": {
+    "user": 21,
+    "bursary": 282,
+    "matched_on": "2025-10-16T13:53:26.157Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 440,
+  "fields": {
+    "user": 21,
+    "bursary": 283,
+    "matched_on": "2025-10-16T13:53:27.318Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 441,
+  "fields": {
+    "user": 21,
+    "bursary": 284,
+    "matched_on": "2025-10-16T13:53:28.020Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 442,
+  "fields": {
+    "user": 21,
+    "bursary": 285,
+    "matched_on": "2025-10-16T14:00:31.487Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 443,
+  "fields": {
+    "user": 21,
+    "bursary": 286,
+    "matched_on": "2025-10-16T14:02:02.051Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 444,
+  "fields": {
+    "user": 21,
+    "bursary": 287,
+    "matched_on": "2025-10-16T14:02:15.767Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 445,
+  "fields": {
+    "user": 21,
+    "bursary": 288,
+    "matched_on": "2025-10-16T14:02:16.510Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 446,
+  "fields": {
+    "user": 21,
+    "bursary": 289,
+    "matched_on": "2025-10-16T14:04:09.611Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 447,
+  "fields": {
+    "user": 21,
+    "bursary": 290,
+    "matched_on": "2025-10-16T14:04:10.299Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 448,
+  "fields": {
+    "user": 21,
+    "bursary": 291,
+    "matched_on": "2025-10-16T14:04:11.071Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 449,
+  "fields": {
+    "user": 21,
+    "bursary": 292,
+    "matched_on": "2025-10-16T14:04:11.971Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 450,
+  "fields": {
+    "user": 21,
+    "bursary": 293,
+    "matched_on": "2025-10-16T14:04:12.784Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 451,
+  "fields": {
+    "user": 21,
+    "bursary": 294,
+    "matched_on": "2025-10-16T14:04:14.598Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 452,
+  "fields": {
+    "user": 21,
+    "bursary": 295,
+    "matched_on": "2025-10-16T14:04:15.471Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 453,
+  "fields": {
+    "user": 21,
+    "bursary": 296,
+    "matched_on": "2025-10-16T14:04:16.114Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 454,
+  "fields": {
+    "user": 21,
+    "bursary": 297,
+    "matched_on": "2025-10-16T14:04:16.659Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 455,
+  "fields": {
+    "user": 21,
+    "bursary": 298,
+    "matched_on": "2025-10-16T14:04:17.306Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 456,
+  "fields": {
+    "user": 21,
+    "bursary": 299,
+    "matched_on": "2025-10-16T14:04:17.845Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 457,
+  "fields": {
+    "user": 21,
+    "bursary": 300,
+    "matched_on": "2025-10-16T14:04:18.769Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 458,
+  "fields": {
+    "user": 21,
+    "bursary": 301,
+    "matched_on": "2025-10-16T14:04:19.941Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 459,
+  "fields": {
+    "user": 21,
+    "bursary": 302,
+    "matched_on": "2025-10-16T14:04:20.756Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 460,
+  "fields": {
+    "user": 21,
+    "bursary": 303,
+    "matched_on": "2025-10-16T14:04:21.285Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 461,
+  "fields": {
+    "user": 21,
+    "bursary": 304,
+    "matched_on": "2025-10-16T14:04:22.108Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 462,
+  "fields": {
+    "user": 21,
+    "bursary": 305,
+    "matched_on": "2025-10-16T14:05:08.128Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 463,
+  "fields": {
+    "user": 21,
+    "bursary": 306,
+    "matched_on": "2025-10-16T14:05:08.790Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 464,
+  "fields": {
+    "user": 21,
+    "bursary": 307,
+    "matched_on": "2025-10-16T14:05:09.685Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 465,
+  "fields": {
+    "user": 21,
+    "bursary": 308,
+    "matched_on": "2025-10-16T14:05:10.301Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 466,
+  "fields": {
+    "user": 21,
+    "bursary": 309,
+    "matched_on": "2025-10-16T14:05:10.972Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 467,
+  "fields": {
+    "user": 21,
+    "bursary": 310,
+    "matched_on": "2025-10-16T14:05:11.688Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 468,
+  "fields": {
+    "user": 21,
+    "bursary": 311,
+    "matched_on": "2025-10-16T14:05:12.627Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 469,
+  "fields": {
+    "user": 21,
+    "bursary": 312,
+    "matched_on": "2025-10-16T14:05:14.299Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 470,
+  "fields": {
+    "user": 21,
+    "bursary": 313,
+    "matched_on": "2025-10-16T14:05:16.051Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 471,
+  "fields": {
+    "user": 21,
+    "bursary": 314,
+    "matched_on": "2025-10-16T14:05:21.022Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 472,
+  "fields": {
+    "user": 21,
+    "bursary": 315,
+    "matched_on": "2025-10-16T14:05:22.226Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 473,
+  "fields": {
+    "user": 21,
+    "bursary": 316,
+    "matched_on": "2025-10-16T14:05:23.988Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 474,
+  "fields": {
+    "user": 21,
+    "bursary": 317,
+    "matched_on": "2025-10-16T14:05:26.678Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 475,
+  "fields": {
+    "user": 21,
+    "bursary": 318,
+    "matched_on": "2025-10-16T14:05:27.196Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 476,
+  "fields": {
+    "user": 21,
+    "bursary": 319,
+    "matched_on": "2025-10-16T14:06:11.087Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 477,
+  "fields": {
+    "user": 21,
+    "bursary": 320,
+    "matched_on": "2025-10-16T14:06:12.622Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 478,
+  "fields": {
+    "user": 21,
+    "bursary": 321,
+    "matched_on": "2025-10-16T14:06:13.418Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 479,
+  "fields": {
+    "user": 21,
+    "bursary": 322,
+    "matched_on": "2025-10-16T14:06:14.241Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 480,
+  "fields": {
+    "user": 21,
+    "bursary": 323,
+    "matched_on": "2025-10-16T14:06:15.023Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 481,
+  "fields": {
+    "user": 21,
+    "bursary": 324,
+    "matched_on": "2025-10-16T14:06:15.612Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 482,
+  "fields": {
+    "user": 21,
+    "bursary": 325,
+    "matched_on": "2025-10-16T14:06:16.156Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 483,
+  "fields": {
+    "user": 21,
+    "bursary": 326,
+    "matched_on": "2025-10-16T14:06:16.863Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 484,
+  "fields": {
+    "user": 21,
+    "bursary": 327,
+    "matched_on": "2025-10-16T14:06:17.599Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 485,
+  "fields": {
+    "user": 21,
+    "bursary": 328,
+    "matched_on": "2025-10-16T14:06:18.113Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 486,
+  "fields": {
+    "user": 21,
+    "bursary": 329,
+    "matched_on": "2025-10-16T14:06:18.752Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 487,
+  "fields": {
+    "user": 21,
+    "bursary": 330,
+    "matched_on": "2025-10-16T14:06:19.290Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 488,
+  "fields": {
+    "user": 21,
+    "bursary": 331,
+    "matched_on": "2025-10-16T14:06:19.938Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 489,
+  "fields": {
+    "user": 21,
+    "bursary": 332,
+    "matched_on": "2025-10-16T14:06:20.714Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 490,
+  "fields": {
+    "user": 21,
+    "bursary": 333,
+    "matched_on": "2025-10-16T14:06:21.220Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 491,
+  "fields": {
+    "user": 21,
+    "bursary": 334,
+    "matched_on": "2025-10-16T14:06:21.898Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 492,
+  "fields": {
+    "user": 21,
+    "bursary": 335,
+    "matched_on": "2025-10-16T14:06:23.530Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 493,
+  "fields": {
+    "user": 21,
+    "bursary": 336,
+    "matched_on": "2025-10-16T14:06:24.862Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 494,
+  "fields": {
+    "user": 21,
+    "bursary": 337,
+    "matched_on": "2025-10-16T14:06:25.757Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 495,
+  "fields": {
+    "user": 21,
+    "bursary": 338,
+    "matched_on": "2025-10-16T14:06:26.451Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 496,
+  "fields": {
+    "user": 21,
+    "bursary": 339,
+    "matched_on": "2025-10-16T14:06:27.037Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 497,
+  "fields": {
+    "user": 21,
+    "bursary": 340,
+    "matched_on": "2025-10-16T14:06:27.854Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 498,
+  "fields": {
+    "user": 21,
+    "bursary": 341,
+    "matched_on": "2025-10-16T14:06:28.671Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 499,
+  "fields": {
+    "user": 21,
+    "bursary": 342,
+    "matched_on": "2025-10-16T14:08:50.331Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 500,
+  "fields": {
+    "user": 21,
+    "bursary": 343,
+    "matched_on": "2025-10-16T14:08:50.863Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 501,
+  "fields": {
+    "user": 21,
+    "bursary": 344,
+    "matched_on": "2025-10-16T14:08:51.819Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 502,
+  "fields": {
+    "user": 21,
+    "bursary": 345,
+    "matched_on": "2025-10-16T14:08:52.550Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 503,
+  "fields": {
+    "user": 21,
+    "bursary": 346,
+    "matched_on": "2025-10-16T14:08:53.333Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 504,
+  "fields": {
+    "user": 21,
+    "bursary": 347,
+    "matched_on": "2025-10-16T14:08:53.862Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 505,
+  "fields": {
+    "user": 21,
+    "bursary": 348,
+    "matched_on": "2025-10-16T14:08:55.540Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 506,
+  "fields": {
+    "user": 21,
+    "bursary": 349,
+    "matched_on": "2025-10-16T14:08:56.050Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 507,
+  "fields": {
+    "user": 21,
+    "bursary": 350,
+    "matched_on": "2025-10-16T14:08:56.938Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 508,
+  "fields": {
+    "user": 21,
+    "bursary": 351,
+    "matched_on": "2025-10-16T14:08:57.441Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 509,
+  "fields": {
+    "user": 21,
+    "bursary": 352,
+    "matched_on": "2025-10-16T14:08:58.175Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 510,
+  "fields": {
+    "user": 21,
+    "bursary": 353,
+    "matched_on": "2025-10-16T14:08:58.646Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 511,
+  "fields": {
+    "user": 21,
+    "bursary": 354,
+    "matched_on": "2025-10-16T14:08:59.712Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 512,
+  "fields": {
+    "user": 21,
+    "bursary": 355,
+    "matched_on": "2025-10-16T14:09:00.517Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 513,
+  "fields": {
+    "user": 21,
+    "bursary": 356,
+    "matched_on": "2025-10-16T14:09:01.446Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 514,
+  "fields": {
+    "user": 21,
+    "bursary": 357,
+    "matched_on": "2025-10-16T14:09:02.034Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 515,
+  "fields": {
+    "user": 21,
+    "bursary": 358,
+    "matched_on": "2025-10-16T14:09:02.794Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 516,
+  "fields": {
+    "user": 21,
+    "bursary": 359,
+    "matched_on": "2025-10-16T14:09:03.747Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 517,
+  "fields": {
+    "user": 21,
+    "bursary": 360,
+    "matched_on": "2025-10-16T14:09:04.269Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 518,
+  "fields": {
+    "user": 21,
+    "bursary": 361,
+    "matched_on": "2025-10-16T14:09:05.101Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 519,
+  "fields": {
+    "user": 21,
+    "bursary": 362,
+    "matched_on": "2025-10-16T14:09:21.014Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 520,
+  "fields": {
+    "user": 21,
+    "bursary": 363,
+    "matched_on": "2025-10-16T14:09:21.551Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 521,
+  "fields": {
+    "user": 21,
+    "bursary": 364,
+    "matched_on": "2025-10-16T14:10:16.140Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 522,
+  "fields": {
+    "user": 21,
+    "bursary": 365,
+    "matched_on": "2025-10-16T14:10:17.366Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 523,
+  "fields": {
+    "user": 21,
+    "bursary": 366,
+    "matched_on": "2025-10-16T14:10:18.099Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 524,
+  "fields": {
+    "user": 21,
+    "bursary": 367,
+    "matched_on": "2025-10-16T14:10:18.799Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 525,
+  "fields": {
+    "user": 21,
+    "bursary": 368,
+    "matched_on": "2025-10-16T14:10:19.397Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 526,
+  "fields": {
+    "user": 21,
+    "bursary": 369,
+    "matched_on": "2025-10-16T14:10:20.952Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 527,
+  "fields": {
+    "user": 21,
+    "bursary": 370,
+    "matched_on": "2025-10-16T14:10:21.502Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 528,
+  "fields": {
+    "user": 21,
+    "bursary": 371,
+    "matched_on": "2025-10-16T14:10:22.111Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 529,
+  "fields": {
+    "user": 21,
+    "bursary": 372,
+    "matched_on": "2025-10-16T14:10:22.578Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 530,
+  "fields": {
+    "user": 21,
+    "bursary": 373,
+    "matched_on": "2025-10-16T14:10:23.231Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 531,
+  "fields": {
+    "user": 21,
+    "bursary": 374,
+    "matched_on": "2025-10-16T14:10:23.784Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 532,
+  "fields": {
+    "user": 21,
+    "bursary": 375,
+    "matched_on": "2025-10-16T14:11:00.068Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 533,
+  "fields": {
+    "user": 21,
+    "bursary": 376,
+    "matched_on": "2025-10-16T14:11:00.707Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 534,
+  "fields": {
+    "user": 21,
+    "bursary": 377,
+    "matched_on": "2025-10-16T14:11:01.391Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 535,
+  "fields": {
+    "user": 21,
+    "bursary": 378,
+    "matched_on": "2025-10-16T14:11:01.824Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 536,
+  "fields": {
+    "user": 21,
+    "bursary": 379,
+    "matched_on": "2025-10-16T14:11:02.332Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 537,
+  "fields": {
+    "user": 21,
+    "bursary": 380,
+    "matched_on": "2025-10-16T14:11:02.832Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 538,
+  "fields": {
+    "user": 21,
+    "bursary": 381,
+    "matched_on": "2025-10-16T14:12:06.429Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 539,
+  "fields": {
+    "user": 21,
+    "bursary": 382,
+    "matched_on": "2025-10-16T14:12:07.068Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 540,
+  "fields": {
+    "user": 21,
+    "bursary": 383,
+    "matched_on": "2025-10-16T14:12:07.951Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 541,
+  "fields": {
+    "user": 21,
+    "bursary": 384,
+    "matched_on": "2025-10-16T14:13:34.483Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 542,
+  "fields": {
+    "user": 21,
+    "bursary": 385,
+    "matched_on": "2025-10-16T14:13:35.325Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 543,
+  "fields": {
+    "user": 21,
+    "bursary": 386,
+    "matched_on": "2025-10-16T14:13:36.299Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 544,
+  "fields": {
+    "user": 21,
+    "bursary": 387,
+    "matched_on": "2025-10-16T14:14:36.346Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 545,
+  "fields": {
+    "user": 21,
+    "bursary": 388,
+    "matched_on": "2025-10-16T14:14:37.135Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 546,
+  "fields": {
+    "user": 21,
+    "bursary": 389,
+    "matched_on": "2025-10-16T14:14:37.909Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 547,
+  "fields": {
+    "user": 21,
+    "bursary": 390,
+    "matched_on": "2025-10-16T14:14:38.450Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 548,
+  "fields": {
+    "user": 21,
+    "bursary": 391,
+    "matched_on": "2025-10-16T14:14:39.034Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 549,
+  "fields": {
+    "user": 21,
+    "bursary": 392,
+    "matched_on": "2025-10-16T14:14:39.530Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 550,
+  "fields": {
+    "user": 21,
+    "bursary": 393,
+    "matched_on": "2025-10-16T14:14:40.352Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 551,
+  "fields": {
+    "user": 21,
+    "bursary": 394,
+    "matched_on": "2025-10-16T14:14:41.221Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 552,
+  "fields": {
+    "user": 21,
+    "bursary": 395,
+    "matched_on": "2025-10-16T14:14:43.000Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 553,
+  "fields": {
+    "user": 21,
+    "bursary": 396,
+    "matched_on": "2025-10-16T14:14:43.643Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 554,
+  "fields": {
+    "user": 21,
+    "bursary": 397,
+    "matched_on": "2025-10-16T14:14:44.114Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 555,
+  "fields": {
+    "user": 21,
+    "bursary": 398,
+    "matched_on": "2025-10-16T14:14:44.722Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 556,
+  "fields": {
+    "user": 21,
+    "bursary": 399,
+    "matched_on": "2025-10-16T14:14:45.180Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 557,
+  "fields": {
+    "user": 21,
+    "bursary": 400,
+    "matched_on": "2025-10-16T14:16:20.956Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 558,
+  "fields": {
+    "user": 21,
+    "bursary": 401,
+    "matched_on": "2025-10-16T14:16:21.431Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 559,
+  "fields": {
+    "user": 21,
+    "bursary": 402,
+    "matched_on": "2025-10-16T14:16:22.462Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 560,
+  "fields": {
+    "user": 21,
+    "bursary": 403,
+    "matched_on": "2025-10-16T14:16:23.080Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 561,
+  "fields": {
+    "user": 21,
+    "bursary": 404,
+    "matched_on": "2025-10-16T14:16:23.918Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 562,
+  "fields": {
+    "user": 21,
+    "bursary": 405,
+    "matched_on": "2025-10-16T14:16:24.709Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 563,
+  "fields": {
+    "user": 21,
+    "bursary": 406,
+    "matched_on": "2025-10-16T14:16:25.424Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 564,
+  "fields": {
+    "user": 21,
+    "bursary": 407,
+    "matched_on": "2025-10-16T14:16:26.035Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 565,
+  "fields": {
+    "user": 21,
+    "bursary": 408,
+    "matched_on": "2025-10-16T14:16:26.658Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 566,
+  "fields": {
+    "user": 21,
+    "bursary": 409,
+    "matched_on": "2025-10-16T14:16:27.283Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 567,
+  "fields": {
+    "user": 21,
+    "bursary": 410,
+    "matched_on": "2025-10-16T14:16:28.003Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 568,
+  "fields": {
+    "user": 21,
+    "bursary": 411,
+    "matched_on": "2025-10-16T14:16:28.662Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 569,
+  "fields": {
+    "user": 21,
+    "bursary": 412,
+    "matched_on": "2025-10-16T14:16:29.268Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 570,
+  "fields": {
+    "user": 21,
+    "bursary": 413,
+    "matched_on": "2025-10-16T14:16:30.017Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 571,
+  "fields": {
+    "user": 21,
+    "bursary": 414,
+    "matched_on": "2025-10-16T14:16:30.894Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 572,
+  "fields": {
+    "user": 21,
+    "bursary": 415,
+    "matched_on": "2025-10-16T14:16:31.678Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 573,
+  "fields": {
+    "user": 21,
+    "bursary": 416,
+    "matched_on": "2025-10-16T14:16:32.754Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 574,
+  "fields": {
+    "user": 21,
+    "bursary": 417,
+    "matched_on": "2025-10-21T12:23:26.231Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 575,
+  "fields": {
+    "user": 21,
+    "bursary": 418,
+    "matched_on": "2025-10-21T12:23:42.663Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 576,
+  "fields": {
+    "user": 21,
+    "bursary": 419,
+    "matched_on": "2025-10-21T12:23:51.720Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 577,
+  "fields": {
+    "user": 21,
+    "bursary": 420,
+    "matched_on": "2025-10-21T12:23:58.740Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 578,
+  "fields": {
+    "user": 21,
+    "bursary": 421,
+    "matched_on": "2025-10-21T12:24:04.704Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 579,
+  "fields": {
+    "user": 21,
+    "bursary": 422,
+    "matched_on": "2025-10-21T12:24:11.348Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 580,
+  "fields": {
+    "user": 21,
+    "bursary": 423,
+    "matched_on": "2025-10-21T12:24:18.357Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 581,
+  "fields": {
+    "user": 21,
+    "bursary": 424,
+    "matched_on": "2025-10-21T12:24:23.545Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 582,
+  "fields": {
+    "user": 21,
+    "bursary": 425,
+    "matched_on": "2025-10-21T12:26:33.937Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 583,
+  "fields": {
+    "user": 21,
+    "bursary": 426,
+    "matched_on": "2025-10-21T12:26:47.247Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 584,
+  "fields": {
+    "user": 21,
+    "bursary": 427,
+    "matched_on": "2025-10-21T12:26:55.517Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 585,
+  "fields": {
+    "user": 21,
+    "bursary": 428,
+    "matched_on": "2025-10-21T12:27:05.083Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 586,
+  "fields": {
+    "user": 21,
+    "bursary": 429,
+    "matched_on": "2025-10-21T12:27:13.935Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 587,
+  "fields": {
+    "user": 21,
+    "bursary": 430,
+    "matched_on": "2025-10-21T12:27:23.523Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 588,
+  "fields": {
+    "user": 21,
+    "bursary": 431,
+    "matched_on": "2025-10-21T12:27:36.808Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 589,
+  "fields": {
+    "user": 21,
+    "bursary": 432,
+    "matched_on": "2025-10-21T12:27:51.194Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 590,
+  "fields": {
+    "user": 21,
+    "bursary": 433,
+    "matched_on": "2025-10-21T12:28:03.912Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 591,
+  "fields": {
+    "user": 21,
+    "bursary": 434,
+    "matched_on": "2025-10-21T12:28:16.502Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 592,
+  "fields": {
+    "user": 21,
+    "bursary": 435,
+    "matched_on": "2025-10-21T12:28:24.102Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 593,
+  "fields": {
+    "user": 21,
+    "bursary": 436,
+    "matched_on": "2025-10-21T12:28:30.766Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 594,
+  "fields": {
+    "user": 21,
+    "bursary": 437,
+    "matched_on": "2025-10-21T12:28:36.662Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 595,
+  "fields": {
+    "user": 21,
+    "bursary": 438,
+    "matched_on": "2025-10-21T12:28:44.322Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 596,
+  "fields": {
+    "user": 21,
+    "bursary": 439,
+    "matched_on": "2025-10-21T12:28:47.962Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 597,
+  "fields": {
+    "user": 21,
+    "bursary": 440,
+    "matched_on": "2025-10-21T12:28:51.678Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 598,
+  "fields": {
+    "user": 21,
+    "bursary": 441,
+    "matched_on": "2025-10-21T12:28:56.702Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 599,
+  "fields": {
+    "user": 21,
+    "bursary": 442,
+    "matched_on": "2025-10-21T12:28:58.890Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 600,
+  "fields": {
+    "user": 21,
+    "bursary": 443,
+    "matched_on": "2025-10-21T12:29:01.819Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 601,
+  "fields": {
+    "user": 21,
+    "bursary": 444,
+    "matched_on": "2025-10-21T12:29:03.774Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 602,
+  "fields": {
+    "user": 21,
+    "bursary": 445,
+    "matched_on": "2025-10-21T12:30:32.936Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 603,
+  "fields": {
+    "user": 21,
+    "bursary": 446,
+    "matched_on": "2025-10-21T12:30:43.398Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 604,
+  "fields": {
+    "user": 21,
+    "bursary": 447,
+    "matched_on": "2025-10-21T12:30:52.680Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 605,
+  "fields": {
+    "user": 21,
+    "bursary": 448,
+    "matched_on": "2025-10-21T12:31:02.901Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 606,
+  "fields": {
+    "user": 21,
+    "bursary": 449,
+    "matched_on": "2025-10-21T12:31:15.128Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 607,
+  "fields": {
+    "user": 21,
+    "bursary": 450,
+    "matched_on": "2025-10-21T12:31:27.957Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 608,
+  "fields": {
+    "user": 21,
+    "bursary": 451,
+    "matched_on": "2025-10-21T12:31:35.716Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 609,
+  "fields": {
+    "user": 21,
+    "bursary": 452,
+    "matched_on": "2025-10-21T12:33:23.189Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 610,
+  "fields": {
+    "user": 21,
+    "bursary": 453,
+    "matched_on": "2025-10-21T12:33:31.463Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 611,
+  "fields": {
+    "user": 21,
+    "bursary": 454,
+    "matched_on": "2025-10-21T12:33:37.072Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 612,
+  "fields": {
+    "user": 21,
+    "bursary": 455,
+    "matched_on": "2025-10-21T12:33:42.436Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 613,
+  "fields": {
+    "user": 21,
+    "bursary": 456,
+    "matched_on": "2025-10-21T12:33:49.220Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 614,
+  "fields": {
+    "user": 21,
+    "bursary": 457,
+    "matched_on": "2025-10-21T12:33:53.156Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 615,
+  "fields": {
+    "user": 21,
+    "bursary": 458,
+    "matched_on": "2025-10-21T12:33:57.192Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 616,
+  "fields": {
+    "user": 21,
+    "bursary": 459,
+    "matched_on": "2025-10-21T12:34:02.429Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 617,
+  "fields": {
+    "user": 21,
+    "bursary": 460,
+    "matched_on": "2025-10-21T12:34:08.301Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 618,
+  "fields": {
+    "user": 21,
+    "bursary": 461,
+    "matched_on": "2025-10-21T12:34:15.256Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 619,
+  "fields": {
+    "user": 21,
+    "bursary": 462,
+    "matched_on": "2025-10-21T12:34:22.094Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 620,
+  "fields": {
+    "user": 21,
+    "bursary": 463,
+    "matched_on": "2025-10-21T12:34:26.636Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 621,
+  "fields": {
+    "user": 21,
+    "bursary": 464,
+    "matched_on": "2025-10-21T12:34:38.074Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 622,
+  "fields": {
+    "user": 21,
+    "bursary": 465,
+    "matched_on": "2025-10-21T12:34:48.264Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 623,
+  "fields": {
+    "user": 21,
+    "bursary": 466,
+    "matched_on": "2025-10-21T12:34:53.270Z",
+    "match_quality": "Good Match",
+    "relevance_score": 10.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 624,
+  "fields": {
+    "user": 21,
+    "bursary": 467,
+    "matched_on": "2025-10-21T12:34:57.959Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+},
+{
+  "model": "bursaryDataMiner.userbursarymatch",
+  "pk": 625,
+  "fields": {
+    "user": 21,
+    "bursary": 468,
+    "matched_on": "2025-10-21T12:35:03.390Z",
+    "match_quality": "Good Match",
+    "relevance_score": 25.0
+  }
+}
+]
